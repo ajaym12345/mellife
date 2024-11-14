@@ -1,0 +1,675 @@
+/***********Tab View CSS *******************/
+@media (min-width: 768px) and (max-width: 991px) {
+  .tab_center{
+    text-align: center;
+  }
+  .about-talk-one{
+    padding-top: 120px;
+  }
+    /* .image_pos{
+    transform: translateX(-50%);
+    left: 50%;
+    } */
+
+  .googleplay-img{
+    height: 40px;
+    width: 130px;
+   }
+   .appstore-img{
+    height: 40px;
+    width: 130px;
+   }
+   .best-professional{
+    font-size: 18px;
+   }
+   .best-doctor{
+   font-size: 14px;
+   }
+   /* .benefit-bgc {
+    padding: 45px 10px 40px 10px;
+   } */
+   .benefitspacing{
+    padding: 10px 10px 10px 10px;
+  }
+  .circulardesign .centerimage img {
+    width: 80px;
+    height: 80px;
+}
+.circulardesign .centerimage {
+  width: 100px;
+  height: 100px;
+}
+.dot2 {
+  transform: translate(110%, -795%) rotate(-45deg);
+}
+.dot6 {
+  transform: translate(102%, 784%) rotate(45deg);
+}
+.pos-2 {
+  transform: translate(90%,-200%);
+}
+.bg-blue {
+  width: 75px;
+  height: 75px;
+}
+.bg-blue img {
+  width: 50px;
+  height: 50px;
+}
+.minicrcle {
+  width: 90px;
+  height: 90px;
+}
+.circle-content1 {
+  width: 145px;
+  transform: translateX(53px);
+}
+.circle-content {
+  transform: translateX(-53px);
+  width: 145px;
+}
+.number1 {
+  font-size: 30px;
+}
+.healthy1 {
+  font-size: 16px;
+}
+.lorem1 {
+  font-size: 14px;
+}
+.number {
+  font-size: 30px;
+}
+.healthy {
+  font-size: 16px;
+}
+.lorem {
+  font-size: 14px;
+}
+.pos-4 {
+  transform: translate(155%,-50%);
+}
+.dot4 {
+  transform: translate(45%, -50%);
+}
+.dot5 {
+  transform: translate(-110%, 739%) rotate(-45deg);
+}
+.dot3 {
+  transform: translate(-142%, -50%);
+}
+.dot1 {
+  transform: translate(-108%, -762%) rotate(45deg);
+}
+.popup {
+  transform: translate(-20%, -35%);
+}
+/* .swiper-button-next, .swiper-rtl .swiper-button-prev {right: var(--swiper-navigation-sides-offset,13%) !important;}
+.swiper-button-prev, .swiper-rtl .swiper-button-next {left: var(--swiper-navigation-sides-offset,73%)!important;} */
+.processcount-img{margin-bottom: 20px;}
+.about-img1{
+   
+  height: 465px;
+  width: 381px;
+  
+ 
+  
+}
+.about-img2 {
+  height: 353px;
+  width: 288px;
+
+ 
+  
+}
+/* .image_pos{
+  position: absolute;
+  bottom: -100px;
+  left: 212px;
+  z-index: -1;
+
+} */
+    .content-width{
+      position: relative;
+    width: 100%;
+   
+    padding-right: 15px;
+    padding-left: 15px;
+    left: 0px;
+    top: 0px;
+ 
+ 
+}
+.benefit-img .benefit-image {
+     width: 100%;
+    /* border-radius: 10px;  */
+    border-radius: 25px;
+   
+       padding-right: 15px;
+    padding-left: 15px;
+}
+   .benefit-bgc {
+       background: transparent;
+       box-shadow: none;
+      padding: 0px;
+    }
+.counter-sec {
+    padding: 0px
+}
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1350px) {
+  .circulardesign .centerimage img {
+    width: 80px;
+    height: 80px;
+}
+.circulardesign .centerimage {
+  width: 100px;
+  height: 100px;
+}
+.dot2 {
+  transform: translate(110%, -795%) rotate(-45deg);
+}
+.dot6 {
+  transform: translate(102%, 784%) rotate(45deg);
+}
+.pos-2 {
+  transform: translate(90%,-200%);
+}
+.bg-blue {
+  width: 75px;
+  height: 75px;
+}
+.bg-blue img {
+  width: 50px;
+  height: 50px;
+}
+.minicrcle {
+  width: 90px;
+  height: 90px;
+}
+.circle-content1 {
+  width: 240px;
+  transform: translateX(55px);
+}
+.circle-content {
+  transform: translateX(-53px);
+  width: 240px;
+}
+.number1 {
+  font-size: 30px;
+}
+.healthy1 {
+  font-size: 16px;
+}
+.lorem1 {
+  font-size: 14px;
+}
+.number {
+  font-size: 30px;
+}
+.healthy {
+  font-size: 20px;
+}
+.lorem {
+  font-size: 16px;
+}
+.pos-4 {
+  transform: translate(155%,-50%);
+}
+.dot4 {
+  transform: translate(45%, -50%);
+}
+.dot5 {
+  transform: translate(-110%, 739%) rotate(-45deg);
+}
+.dot3 {
+  transform: translate(-142%, -50%);
+}
+.dot1 {
+  transform: translate(-108%, -762%) rotate(45deg);
+}
+
+}
+/**********Mobile View CSS*******************/
+@media only screen and (max-width: 767px) {
+    .unlock{font-weight: 500;text-align: center;}
+    .bannerlorem{font-size: 16px;text-align: center;}
+    .banner-img{
+        height: 195px;
+    }
+    .banner-sec {
+        padding: 50px 0px 40px 0px;
+    }
+    .about{
+      
+        text-align: center;
+      }
+      .about-img{
+        height: 290px;
+      }
+      p{
+        font-size: 16px;
+      }
+      h1{
+        font-size: 22px;
+      }
+      h2{font-size: 20px;}
+       h3{font-size: 18px;}
+      .about-sec{
+        padding: 0px 0px 50px 0px;
+      }
+      .talkto{
+        padding: 0px 10px 0px 10px;
+      }
+      .benifit-img{
+        height: 220px;
+        padding: 0px 20px;
+        margin: 0px 0px 50px 0px;
+      }
+      .bannerbg-img {
+        position: absolute;
+        top: 57%;
+        left: 0%;
+    
+        transform: none;
+    }
+    .bannerbg-img img{
+           height: 280px;
+    }
+    .getintouch{
+        text-align: center;
+        margin: 0px 0px 12px 0px;
+    }
+    .getin {
+         margin: 0px 0px 0px 0px;
+    }
+    .googleplay-img{
+      height: 40px;
+      width: 130px;
+      margin: 0px 0px 10px 0px;
+     }
+     .appstore-img{
+      height: 40px;
+      width: 130px;
+      margin: 0px 0px 10px 0px;
+     }
+     .googleplay-imgs{
+      display: grid;
+      justify-content: center;
+     }
+     .count-img {
+      width: 50px;
+      height: 50px;
+       display: flex;
+  align-self: center;
+ 
+     }
+     .process-bgc {
+      height: 80px;
+      width: 80px;
+     }
+     .processcount-img{
+      display: flex;
+      justify-content: center;
+     }
+     .count-text{
+      text-align: center;
+     }
+
+   
+    .sowing-padding{padding: 0px 5px 0px 5px;}
+    .benefit-bgc {
+       background: transparent;
+       box-shadow: none;
+      padding: 0px;
+    }
+    /* .best-professional{
+        font-size: 18px;
+    } */
+    .feature-icons{
+  height: 15px;
+  width: 15px;
+}
+.feature-icon-background {
+   
+    width: 27px;
+    height: 27px;
+    border-radius: 8px;
+    /* justify-content: center; */
+    
+}
+    .best-doctor{
+      font-size: 14px;
+    }
+    .benefit-imag{
+      padding: 0px 10px 0px 10px;
+    }
+    .benefit-sec{
+      padding: 0px 0px 20px 0px;
+  }
+  .benefitspacing {
+    padding: 0px 0px 0px 0px;
+  } 
+  .circulardesign .centerimage img {
+    width: 73px;
+    height: 78px;
+    border-radius: 50%;
+  }
+  .circulardesign .centerimage {
+    transform: translate(-50%,-470%);
+    width: 120px;
+    height: 120px;
+  }
+  .dot1 {
+    transform: translate(-50%, -4034%) rotate(90deg);
+}
+.minicrcle {
+  width: 80px;
+  height: 80px;
+}
+.bg-blue {
+  width: 63px;
+  height: 63px;
+}
+.bg-blue img {
+  width: 43px;
+  height: 33px;
+}
+.pos-1 {
+  transform: translate(-170%,-435%);
+}
+.circle-content {
+  transform: translate(82%,-2%);
+  height: 100%;
+}
+.healthy {
+  text-align: start;
+  max-width: 200px;
+  word-break: break-all;
+}
+.lorem {
+  text-align: start;
+  max-width: 200px;
+  word-break: break-all;
+}
+/* .circle-content1 {
+  left: 50%;
+  transform: translate(-81%,-58%);
+  width: 302px;
+  top: 50%;
+} */
+.healthy1 {
+  text-align: end;
+  width: 200px;
+  word-break: break-all;
+}
+.lorem1 {
+  text-align: end;
+  width: 200px;
+  word-break: break-all;
+}
+.dot2 {
+  transform: translate(50%, -2016%) rotate(-90deg);
+}
+.circle-content1 {
+  left: 50%;
+  transform: translate(-85%,-43%);
+  width: 302px;
+  top: 50%;
+}
+.pos-2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(80%,-165%);
+}
+.circulardesign {
+  height: 1200px;
+}
+.dot3 {
+  transform: translate(-50%, -20%) rotate(-90deg);
+}
+.circle-content2 {
+  right: 50%;
+  top: 50%;
+  width: 302px;
+  text-align: -webkit-right;
+  transform: translate(83%,-29%);
+}
+.pos-3 {
+  transform: translate(-170%,65%);
+}
+.dot4 {
+  transform: translate(-50%, 2000%) rotate(-90deg);
+}
+.pos-4 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(80%,318%);
+}
+.circle-content3 {
+  left: 50%;
+  transform: translate(-84%,-32%);
+  width: 302px;
+  top: 50%;
+}
+.circulardesign {
+  height: 1200px;
+}
+.dot5 {
+  transform: translate(-50%, 4208%) rotate(90deg);
+}
+.pos-5 {
+  transform: translate(-170%,577%);
+}
+.dot6 {
+  bottom: 50%;
+  transform: translate(-50%, 6120%) rotate(90deg);
+  left: 50%;
+}
+.pos-6 {
+  transform: translate(80%,840%);
+}
+/* .counter-sec {
+  padding: 250px 0px 70px 0px;
+} */
+.popup {
+  left: 0%;
+  transform: translatey(-20%);
+  margin: 10px;
+}
+/* .swiper-button-next, .swiper-rtl .swiper-button-prev {right: var(--swiper-navigation-sides-offset,33%) !important;}
+.swiper-button-prev, .swiper-rtl .swiper-button-next {left: var(--swiper-navigation-sides-offset,33%)!important;} */
+
+.counter-sec {
+  padding: 130px 0px 70px 0px;
+}
+.swiper-backface-hidden .swiper-slide {
+  margin-right: 20px!important;
+}
+.aboutimage{
+  text-align: center;
+}
+    
+/* .about-img1{
+   
+  height:250px;
+  
+ 
+  
+}
+.about-img2 {
+  height: 180px; 
+ 
+  
+} */
+.about-img1{
+   
+  height: 237px;
+  width: 195px;
+  
+ 
+  
+}
+.about-img2 {
+  height: 201px;
+  width: 163px;
+
+ 
+  
+}
+
+.about-talk-one{
+margin-top: 120px;
+}
+
+.benefit-img .benefit-image {
+     width: 100%;
+    /* border-radius: 10px;  */
+    border-radius: 25px;
+   
+       padding-right: 15px;
+    padding-left: 15px;
+}
+.content-width{
+      position: relative;
+    width: 100%;
+    min-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    left: 0px;
+    top: 0px;
+ 
+ 
+}
+.hospital-logo{
+  width: 100%;
+  height: 90px;
+}
+
+.about-talk-one{
+  text-align: center;
+}
+.swiper-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.counter-sec {
+    padding: 200px 0px 30px 0px;
+}
+.collapsed .close_icon {
+    transform: rotate(0deg);
+    width: 20px;
+    height: 20px;
+}
+.close_icon {
+    float: right;
+    transform: rotate(45deg);
+     width: 20px;
+    height: 20px;
+}
+.mediLifeLine-logo{
+  width: 150px;
+}
+
+}
+
+/* Both Tab and Mobile */
+@media only screen and (max-width: 991px) {
+ .image_pos{
+    transform: translateX(-50%);
+    left: 50%;
+    }
+    .client_section .swiper-button-next{
+   background: linear-gradient(#00C6B0 0%, #009E8C 100%);
+   left: 50%;
+  
+    border-radius: 4px;
+}
+.client_section .swiper-button-prev{
+   background: linear-gradient(#00C6B0 0%, #009E8C 100%);
+    
+     right: 51%;
+      
+     border-radius: 4px;
+   
+}
+.margin100 {
+padding: 60px 0px 0px 0px;
+  position: relative;
+}
+.about-sec {
+  padding: 70px 0px 0px 0px;
+}
+.benefit-sec {
+  padding: 70px 0px 0px 0px;
+}
+.process-sec {
+  padding: 70px 0px 60px 0px;
+}
+/* .counter-sec {
+  padding: 0px
+} */
+.chooseplan-sec {
+  /* background: #ebf2ff; */
+  padding: 60px 0px 60px 0px;
+}
+.features-sec {
+  padding: 70px 0px 60px 0px;
+}
+.client-section{
+  padding: 0px 0px 60px 0px;
+}
+.client-say-section{
+  padding: 0px 0px 30px 0px;
+}
+.faq-Sec{
+  padding: 60px 0px 0px 0px;
+  /* background: #ebf2ff; */
+}
+
+.contact-sec {
+  padding: 70px 0px 60px 0px;
+}
+.download-sec {
+  padding: 0px 0px 60px 0px;
+}
+.footer-sec {
+  padding: 60px 0px 20px 0px;
+  /* background: #0e4b67; */
+}
+.client-say{
+  padding-bottom: 20px;
+}
+
+
+.hiddendata{
+  overflow-y: scroll;
+  height: 100vh;
+   
+} 
+
+
+
+
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .process-bgc {
+ 
+    height: 128px;
+    width: 116px
+  }
+
+.nav-page .nav-item .navpage-link {
+    font-family: "urbanistbold";
+    font-weight: 500;
+    font-size: 20px;
+    color: #999999;
+    margin: 8px 7px 8px 7px;
+}
+}
